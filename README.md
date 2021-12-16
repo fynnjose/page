@@ -1,2 +1,0 @@
-# page
-my_page
